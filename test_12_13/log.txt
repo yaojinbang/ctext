@@ -1,0 +1,20 @@
+file:main.c	line:171
+data:Dec 13 2021	time:18:04:34	arr[i]=0
+file:main.c	line:171
+data:Dec 13 2021	time:18:04:34	arr[i]=1
+file:main.c	line:171
+data:Dec 13 2021	time:18:04:34	arr[i]=2
+file:main.c	line:171
+data:Dec 13 2021	time:18:04:34	arr[i]=3
+file:main.c	line:171
+data:Dec 13 2021	time:18:04:34	arr[i]=4
+file:main.c	line:171
+data:Dec 13 2021	time:18:04:34	arr[i]=5
+file:main.c	line:171
+data:Dec 13 2021	time:18:04:34	arr[i]=6
+file:main.c	line:171
+data:Dec 13 2021	time:18:04:34	arr[i]=7
+file:main.c	line:171
+data:Dec 13 2021	time:18:04:34	arr[i]=8
+file:main.c	line:171
+data:Dec 13 2021	time:18:04:34	arr[i]=9
